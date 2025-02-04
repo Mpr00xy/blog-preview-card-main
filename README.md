@@ -1,3 +1,3 @@
 # Frontend Mentor - Blog preview card
-
-./preview.jpg
+https://mpr00xy.github.io/blog-preview-card-main/
+./preview.png
